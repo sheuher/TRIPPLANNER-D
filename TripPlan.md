@@ -1,9 +1,8 @@
 ## Initial idea
-1. rest rest rest
 1. either Lüneburg area or Bamberg area
 2. June
 3. 2-3 nights
-4. losely planned that is mostly not planned, nice with some friend, concert, nature and culture
+4. losely planned that is mostly not planned
 ------
 **COST**
 now at €114
