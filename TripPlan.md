@@ -13,6 +13,7 @@ now at €114
 
 ## v1 27.05.2024
 Bamberg area chosen! 
+------
 
 Important stuffs to considerred firstly:
 
