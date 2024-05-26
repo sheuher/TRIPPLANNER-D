@@ -27,7 +27,7 @@ Important stuffs to considerred firstly:
     - [concert 1](https://www.bamberger-symphoniker.de/programm-tickets/konzertuebersicht/frank-peter-zimmermann-spielt-respighi-07-06-2024.html) `20:00 07.06.2024` 
     - [concert 2](https://www.bamberger-symphoniker.de/programm-tickets/konzertuebersicht/joerg-widmann-dirigiert-korngold-und-mozart-12-06-2024.html) `18:00 12.06.2024`
     
-    in this case most likely centred around Bamberg.
+    - [concert 2 at Wurzburg](https://www.bamberger-symphoniker.de/programm-tickets/konzertuebersicht/gastspiel-im-kaisersaal-der-residenz-in-wuerzburg-13-06-2024.html) `20:00 13.06.2024`
     
     although the hostel in Bamberg seems sligthly more expensive and **unavailable from 07-09** !
 
