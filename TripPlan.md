@@ -12,7 +12,7 @@ now at €114
 
 ## v1 27.05.2024
 Bamberg area chosen! 
-![plan1 plan2](someDates.jpg)
+
 ------
 
 Important stuffs to considerred firstly:
@@ -31,7 +31,9 @@ Important stuffs to considerred firstly:
     
     although the hostel in Bamberg seems sligthly more expensive and unavailable !
 
-2. Duisburg - Bamberg either on `Fri 07.06.2024` OR `Wed 12.06.2024`
+   ![plan1 plan2](someDates.jpg)
+
+3. Duisburg - Bamberg either on `Fri 07.06.2024` OR `Wed 12.06.2024`
 
     - `04:23 - 12:32` / `05:43 - 13:30` (3 changes)
 
@@ -48,7 +50,7 @@ Important stuffs to considerred firstly:
         [plan 2 time 1](https://int.bahn.de/en/buchung/start?vbid=be8a23fc-bfce-4a8a-b380-aba81c0e11da)
 
 
-3. hostels
+4. hostels
 
     - Bamberg: [Hostel Très Schick](https://login.snooze-hotelsoftware.de/booking.php?propid=182183&width=960&page=book3&limitstart=0&checkin=So+7.+Juli+2024&checkin_hide=2024-07-07&checkout=Di+9.+Juli+2024&checkout_hide=2024-7-9&numnight=2&numadult=1) Heiliggrabstraße 4, 96052 Bamberg, Deutschland {€29 per night}
     
