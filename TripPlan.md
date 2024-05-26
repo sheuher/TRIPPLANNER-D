@@ -21,7 +21,7 @@ Important stuffs to considerred firstly:
 
 ----
 
-1. This trip is planned based on selection of one of the two concerts {Ermäßigt: €24}:
+1. This trip is planned based on selection of one of the two concerts at Bamberg {Ermäßigt: €24}:
     - [concert 1](https://www.bamberger-symphoniker.de/programm-tickets/konzertuebersicht/frank-peter-zimmermann-spielt-respighi-07-06-2024.html) `18:00 07.06.2024` 
     - [concert 2](https://www.bamberger-symphoniker.de/programm-tickets/konzertuebersicht/joerg-widmann-dirigiert-korngold-und-mozart-12-06-2024.html) `20:00 12.06.2024`
     
