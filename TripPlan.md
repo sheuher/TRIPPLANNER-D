@@ -29,7 +29,7 @@ Important stuffs to considerred firstly:
     
     in this case most likely centred around Bamberg.
     
-    although the hostel in Bamberg seems sligthly more expensive and unavailable !
+    although the hostel in Bamberg seems sligthly more expensive and **unavailable from 07-09** !
 
    ![plan1 plan2](someDates.jpg)
 
