@@ -51,7 +51,7 @@ Important stuffs to considerred firstly:
     - Bamberg: [Hostel Très Schick](https://login.snooze-hotelsoftware.de/booking.php?propid=182183&width=960&page=book3&limitstart=0&checkin=So+7.+Juli+2024&checkin_hide=2024-07-07&checkout=Di+9.+Juli+2024&checkout_hide=2024-7-9&numnight=2&numadult=1) Heiliggrabstraße 4, 96052 Bamberg, Deutschland {€29 per night}
     
     ![hostel bamberg](hostelBamberg.png)
-    - Wurzburg: [https://www.babelfish-hostel.de/intro/](https://www.babelfish-hostel.de/intro/) {~€27 per night}
+    - Wurzburg: [https://www.babelfish-hostel.de/intro/](https://www.babelfish-hostel.de/intro/) Haugerring 2, 97070 Würzburg {~€27 per night}
 
     ![hostel wurzburg plan1](hostelWurzburg.png)
     ![hostel wurzburg plan2](hostelWurzburg2.png)
