@@ -3,7 +3,7 @@
 1. either Lüneburg area or Bamberg area
 2. June
 3. 2-3 nights
-4. concert, nature, culture
+4. losely planned that is mostly not planned, nice with some friend, concert, nature and culture
 ------
 **COST**
 now at €114
@@ -13,6 +13,7 @@ now at €114
 
 ## v1 27.05.2024
 Bamberg area chosen! 
+![plan1 plan2](someDates.png)
 ------
 
 Important stuffs to considerred firstly:
