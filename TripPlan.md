@@ -2,7 +2,7 @@
 1. rest rest rest
 1. either Lüneburg area or Bamberg area
 2. June
-3. 3 nights
+3. 2-3 nights
 4. concert, nature, culture
 ------
 **COST**
