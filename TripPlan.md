@@ -41,7 +41,7 @@ Important stuffs to considerred firstly:
     ![hostel bamberg](hostelBamberg.png)
     - Würzburg: [https://www.babelfish-hostel.de/intro/](https://www.babelfish-hostel.de/intro/) Haugerring 2, 97070 Würzburg {~€27 per night}
 
-    ![hostel würzburg plan1](hostelWurzburg.png)würzburg
+    ![hostel würzburg plan1](hostelWurzburg.png)
     ![hostel würzburg plan2](hostelWurzburg2.png)
     ![hostel würzburg extra](hostelWurzburgExtra.png)
 
