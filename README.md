@@ -1,2 +1,2 @@
-# TRIPPLANNER:D
-just a trip planner
+# TRIPPLANNER
+a trip planner
