@@ -17,6 +17,7 @@ Bamberg area chosen!
 
 Important stuffs to considerred firstly:
 
+1. fixed dates
 1. place to stay
 2. trains
 
