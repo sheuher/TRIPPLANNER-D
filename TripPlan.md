@@ -29,7 +29,7 @@ Important stuffs to considerred firstly:
     
     although the hostel in Bamberg seems sligthly more expensive and unavailable !
 
-2. Duisburg - Bamberg: 
+2. Duisburg - Bamberg either on `Fri 07.06.2024` OR `Wed 12.06.2024`
 
     - `04:23 - 12:32` / `05:43 - 13:30` (3 changes)
 
