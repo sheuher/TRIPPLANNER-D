@@ -18,8 +18,8 @@ Bamberg area chosen!
 Important stuffs to considerred firstly:
 
 1. fixed dates
-1. trains
 2. place to stay
+3. trains
 
 ----
 
@@ -32,6 +32,18 @@ Important stuffs to considerred firstly:
     although the hostel in Bamberg seems sligthly more expensive and **unavailable from 07-09** !
 
    ![plan1 plan2](someDates.jpg)
+
+
+2. hostels
+
+    - Bamberg: [Hostel Très Schick](https://login.snooze-hotelsoftware.de/booking.php?propid=182183&width=960&page=book3&limitstart=0&checkin=So+7.+Juli+2024&checkin_hide=2024-07-07&checkout=Di+9.+Juli+2024&checkout_hide=2024-7-9&numnight=2&numadult=1) Heiliggrabstraße 4, 96052 Bamberg, Deutschland {€29 per night}
+    
+    ![hostel bamberg](hostelBamberg.png)
+    - Würzburg: [https://www.babelfish-hostel.de/intro/](https://www.babelfish-hostel.de/intro/) Haugerring 2, 97070 Würzburg {~€27 per night}
+
+    ![hostel würzburg plan1](hostelWurzburg.png)würzburg
+    ![hostel würzburg plan2](hostelWurzburg2.png)
+    ![hostel würzburg extra](hostelWurzburgExtra.png)
 
 3. Duisburg - Bamberg either on `Fri 07.06.2024` OR `Wed 12.06.2024`
 
@@ -49,14 +61,3 @@ Important stuffs to considerred firstly:
 
         [plan 2 time 1](https://int.bahn.de/en/buchung/start?vbid=be8a23fc-bfce-4a8a-b380-aba81c0e11da)
 
-
-4. hostels
-
-    - Bamberg: [Hostel Très Schick](https://login.snooze-hotelsoftware.de/booking.php?propid=182183&width=960&page=book3&limitstart=0&checkin=So+7.+Juli+2024&checkin_hide=2024-07-07&checkout=Di+9.+Juli+2024&checkout_hide=2024-7-9&numnight=2&numadult=1) Heiliggrabstraße 4, 96052 Bamberg, Deutschland {€29 per night}
-    
-    ![hostel bamberg](hostelBamberg.png)
-    - Würzburg: [https://www.babelfish-hostel.de/intro/](https://www.babelfish-hostel.de/intro/) Haugerring 2, 97070 Würzburg {~€27 per night}
-
-    ![hostel würzburg plan1](hostelWurzburg.png)würzburg
-    ![hostel würzburg plan2](hostelWurzburg2.png)
-    ![hostel würzburg extra](hostelWurzburgExtra.png)
